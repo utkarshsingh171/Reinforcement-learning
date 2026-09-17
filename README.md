@@ -201,8 +201,8 @@ These values are defined directly in the implementation.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/frozenlake-dqn.git
-cd frozenlake-dqn
+git clone https://github.com/utkarshsingh171/Reinforcement-learning.git
+cd Reinforcement-learning
 ```
 
 Create a virtual environment:
@@ -230,7 +230,7 @@ pip install gymnasium numpy matplotlib torch
 Run the Python file:
 
 ```powershell
-python your_file_name.py
+python reinforcement.py
 ```
 
 The current configuration trains the agent for:
